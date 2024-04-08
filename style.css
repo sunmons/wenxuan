@@ -16,6 +16,10 @@ span.n {
     font-weight: normal;
 }
 
+span.b {
+    font-family: ext-b;
+}
+
 blockquote {
     font-size: 0.75rem;
     color: #505050;
