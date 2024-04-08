@@ -1,13 +1,11 @@
 ---
 title:
 - type: main
-  text: 文選
+  text: 文選卷一、賦甲
 - type: subtitle
-  text: 卷一、賦甲
+  text: 兩都賦
 creator:
 - role: author
   text: 〔漢〕班孟堅
-- role: editor
-  text: 〔梁〕蕭統
 lang: zh
 ...
