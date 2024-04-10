@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  text: 文選卷一、賦甲
+  text: 文選卷第一
 - type: subtitle
   text: 班孟堅兩都賦
 creator:

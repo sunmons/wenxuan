@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: 文選卷第二
+- type: subtitle
+  text: 張平子西京賦
+creator:
+- role: author
+  text: 〔漢〕張平子
+lang: zh
+...

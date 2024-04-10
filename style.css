@@ -10,10 +10,11 @@ p {
     font-weight: bold;
 }
     
-span.n {
-    font-size: 0.8rem;
+span.n, sub {
+    font-size: 0.8em;
     color: #505050;
     font-weight: normal;
+    vertical-align: middle;
 }
 
 span.b {
