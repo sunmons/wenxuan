@@ -3,7 +3,7 @@ title:
 - type: main
   text: 文選卷一、賦甲
 - type: subtitle
-  text: 兩都賦
+  text: 班孟堅兩都賦
 creator:
 - role: author
   text: 〔漢〕班孟堅
