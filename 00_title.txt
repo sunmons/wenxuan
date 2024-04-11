@@ -4,6 +4,6 @@ title:
   text: 文選卷首、諸序
 creator:
 - role: author
-  text: 〔梁〕蕭統
+  text: 〔梁〕蕭統〔唐〕李善〔宋〕尤袤〔清〕胡克家
 lang: zh
 ...
