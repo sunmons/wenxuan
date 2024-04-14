@@ -32,16 +32,13 @@ a.footnote-ref {
     vertical-align: super;
     font-size: 0.8em;
     font-weight: normal;
+    text-decoration: none;
 }
 
-ol {
+ol li p {
     font-size: 0.8rem;
     color: #505050;
     font-weight: normal;
-}
-
-q {
-    quotes: '〔' '〕';
 }
 
 s {
