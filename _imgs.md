@@ -2,4 +2,4 @@
 
 | 異體字 | 通用字 | 見於 |
 |:---:|:---:|:---|
-| <img src="images/226D0.svg" width="25" height="25"/> | 惵 | 卷一，東都賦注 29 |
+| <img src="images/226D0.svg" width="25" height="25"/> | 惵 | 卷一，東都賦 |
