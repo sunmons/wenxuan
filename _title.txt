@@ -6,4 +6,6 @@ creator:
 - role: author
   text: 〔梁〕蕭統編〔唐〕李善注
 lang: zh
+cover-image: "images/cover.png"
+css: "style.css"
 ...

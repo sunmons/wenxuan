@@ -4,7 +4,7 @@ body {
 }
   
 h1, h2, h3, h4, h5 {
-    font-size: 1rem;
+    font-size: 1em;
 }
 
 p {
@@ -31,7 +31,7 @@ sub img {
 }
 
 blockquote {
-    font-size: 0.8rem;
+    font-size: 0.8em;
     color: #505050;
     margin: auto 0rem auto 1rem;
     font-weight: normal;
