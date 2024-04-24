@@ -1,5 +1,6 @@
 body {
     line-height: 125%;
+    font-size: 16px;
 }
   
 h1, h2, h3, h4, h5 {
@@ -9,16 +10,24 @@ h1, h2, h3, h4, h5 {
 p {
     font-weight: bold;
 }
+
+p img {
+    width: 19px;
+    height: 19px;
+    vertical-align: text-bottom;
+}
     
-span.n, sub {
+sub {
     font-size: 0.8em;
     color: #505050;
     font-weight: normal;
     vertical-align: middle;
 }
 
-span.b {
-    font-family: ext-b;
+sub img {
+    width: 15px;
+    height: 15px;
+    vertical-align: text-bottom;
 }
 
 blockquote {
@@ -36,9 +45,15 @@ a.footnote-ref {
 }
 
 ol li p {
-    font-size: 0.8rem;
+    font-size: 0.8em;
     color: #505050;
     font-weight: normal;
+}
+
+ol li p img{
+    width: 15px;
+    height: 15px;
+    vertical-align: text-bottom;
 }
 
 s {
