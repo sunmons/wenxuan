@@ -1,1 +1,1 @@
-pandoc -o ..\..\Documents\editted\文選\文選01.epub _title.txt _fanli.md 00.md 01_1.md 01_2.md 01_3.md _imgs.md --css=style.css --epub-chapter-level=2
+pandoc -o ..\..\Documents\editted\文選\文選02.epub _title.txt _fanli.md 00.md 01_1.md 01_2.md 01_3.md 02.md
