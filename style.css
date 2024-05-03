@@ -1,6 +1,5 @@
 body {
     line-height: 125%;
-    font-size: 16px;
 }
   
 h1, h2, h3, h4, h5 {
@@ -11,9 +10,9 @@ p {
     font-weight: bold;
 }
 
-p img {
-    width: 20px;
-    height: 20px;
+img {
+    width: 1.2em;
+    height: 1.3em;
     vertical-align: text-bottom;
 }
     
@@ -22,12 +21,6 @@ sub {
     color: #505050;
     font-weight: normal;
     vertical-align: middle;
-}
-
-sub img {
-    width: 16px;
-    height: 16px;
-    vertical-align: text-bottom;
 }
 
 blockquote {
@@ -48,12 +41,6 @@ ol li p {
     font-size: 0.8em;
     color: #505050;
     font-weight: normal;
-}
-
-ol li p img{
-    width: 16px;
-    height: 16px;
-    vertical-align: text-bottom;
 }
 
 s, del {
