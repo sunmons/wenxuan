@@ -1,5 +1,6 @@
 body {
     line-height: 160%;
+    text-align: justify;
 }
   
 h1, h2, h3, h4, h5 {
@@ -11,22 +12,26 @@ p {
     font-size: 1.25em;
 }
 
-img {
+img { /* for extb character */
     width: 1.25em;
     height: 1.25em;
     vertical-align: text-bottom;
 }
     
-sub {
+sub { /* for note character */
     font-size: 0.9em;
-    color: #505050;
     font-weight: normal;
     vertical-align: middle;
 }
 
+em { /* for note for notes character */
+    font-style: normal;
+    color: #505050;
+    font-size: 0.9em;
+}
+
 blockquote {
     font-size: 1em;
-    color: #505050;
     margin: auto 0rem auto 1rem;
     font-weight: normal;
 }
@@ -45,10 +50,9 @@ ol li p {
 }
 
 s, del {
-    display: none;
-    color: gray;
+    color: #505050;
 }
 
 hr {
-    border: 1px dotted gray;
+    border: 1px dotted #505050;
 }
