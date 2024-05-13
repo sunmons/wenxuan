@@ -26,8 +26,8 @@ sub { /* for note character */
 
 em { /* for note for notes character */
     font-style: normal;
-    color: #505050;
-    font-size: 0.9em;
+    color: gray;
+    font-size: 0.8em;
 }
 
 blockquote {
