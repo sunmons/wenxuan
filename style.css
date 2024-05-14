@@ -30,6 +30,11 @@ em { /* for note for notes character */
     font-size: 0.8em;
 }
 
+code {
+    color: teal;
+    border-bottom: 1px dotted red;
+}
+
 blockquote {
     font-size: 1em;
     margin: auto 0rem auto 1rem;
