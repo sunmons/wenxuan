@@ -27,12 +27,13 @@ sub { /* for note character */
 em { /* for note for notes character */
     font-style: normal;
     color: gray;
-    font-size: 0.8em;
+    font-size: 0.75em;
 }
 
 code { /* for pronounce character */
     color: gray;
     font-size: 0.75em;
+    font-weight: normal;
 }
 
 strong { 
