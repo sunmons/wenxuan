@@ -27,17 +27,22 @@ sub { /* for note character */
 em { /* for note for notes character */
     font-style: normal;
     color: gray;
-    font-size: 0.85em;
+    font-size: 0.8em;
 }
 
-code {
+code { /* for pronounce character */
     color: gray;
-    border-bottom: 1px dotted red;
+    font-size: 0.75em;
+}
+
+strong { 
+    color: gray;
+    font-weight: normal;
 }
 
 blockquote {
     font-size: 1em;
-    margin: auto 0rem auto 1rem;
+    margin: auto 0rem auto 2em;
     font-weight: normal;
 }
 
@@ -49,13 +54,13 @@ a.footnote-ref {
 }
 
 ol li p {
-    font-size: 0.85em;
-    color: #505050;
+    font-size: 0.9em;
+    color: gray;
     font-weight: normal;
 }
 
 s, del {
-    color: #505050;
+    color: gray;
     font-size: 0.75em;
 }
 
