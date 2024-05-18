@@ -34,7 +34,10 @@ code { /* for pronounce character */
     font-size: 0.75em;
     color: gray;
     font-weight: normal;
-    /* display: none; */
+}
+
+del code { /* redundant pronounce character */
+    display: none;
 }
 
 strong { 
