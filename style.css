@@ -8,8 +8,8 @@ h1, h2, h3, h4, h5 {
 }
 
 p {
-    font-weight: bold;
     font-size: 1.25em;
+    font-weight: bold;
 }
 
 img { /* for extb character */
@@ -25,14 +25,14 @@ sub { /* for note character */
 }
 
 em { /* for note for notes character */
-    font-style: normal;
-    color: gray;
     font-size: 0.75em;
+    color: gray;
+    font-style: normal;
 }
 
 code { /* for pronounce character */
-    color: gray;
     font-size: 0.75em;
+    color: gray;
     font-weight: normal;
     /* display: none; */
 }
@@ -62,8 +62,9 @@ ol li p {
 }
 
 s, del {
-    color: gray;
     font-size: 0.75em;
+    color: gray;
+    font-weight: normal;
 }
 
 hr {
