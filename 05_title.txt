@@ -1,0 +1,14 @@
+---
+title:
+- type: main
+  text: 文選卷第五
+creator:
+- role: author
+  text: 〔梁〕蕭統編〔唐〕李善注
+lang: zh
+cover-image: "images/cover.png"
+css: "style.css"
+date: 2024-05-15
+belongs-to-collection: 文選
+group-position: 5
+...
