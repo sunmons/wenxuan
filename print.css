@@ -1,21 +1,21 @@
 body {
     line-height: 160%;
     text-align: justify;
-    font-family: '全字库正楷体';
+    font-family: TW-Kai, TW-Kai-Ext-B, TW-Kai-Plus;
 }
   
 h1, h2, h3, h4, h5 {
-    font-size: 1.1em;
+    font-size: 1.2em;
     font-weight: bold;
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 img { /* for extb character */
-    width: 1.1em;
-    height: 1.1em;
+    width: 1.2em;
+    height: 1.2em;
     vertical-align: text-bottom;
 }
     
@@ -23,7 +23,7 @@ sub { /* for note character */
     font-size: 0.8em;
     font-weight: normal;
     vertical-align: middle;
-    font-family: 'PMingLiU';
+    font-family: PMingLiU, PMingLiU-ExtB;
     margin-left: 0.2em;
 }
 
@@ -34,13 +34,13 @@ em { /* for note for notes character */
 }
 
 code { /* for pronounce character */
-    font-size: 0.8em;
-    font-family: 'PMingLiU';
+    font-size: 0.5em;
+    font-family: PMingLiU, PMingLiU-ExtB;
     color: gray;
     font-weight: normal;
 }
 
-del code { /* redundant pronounce character */
+del { /* redundant character */
     display: none;
 }
 
@@ -57,7 +57,7 @@ blockquote {
 
 a.footnote-ref {
     font-size: 0.6em;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: PMingLiU;
     font-weight: normal;
     text-decoration: none;
 }
@@ -66,12 +66,7 @@ ol li p {
     font-size: 0.8em;
     color: gray;
     font-weight: normal;
-}
-
-s, del {
-    font-size: 0.7em;
-    color: gray;
-    font-weight: normal;
+    font-family: PMingLiU, PMingLiU-ExtB;
 }
 
 hr {
