@@ -1,7 +1,14 @@
+/* page margin: 10mm, 20mm, 10mm, 20mm
+   page setting: pamphlet
+   and using regex to replace 
+   (<img.*?svg" alt=")(.)(" />) with $2
+   to remove all images have characters */
+
 body {
     line-height: 160%;
     text-align: justify;
     font-family: TW-Kai, TW-Kai-Ext-B, TW-Kai-Plus;
+    font-size: 18px;
 }
   
 h1, h2, h3, h4, h5 {
