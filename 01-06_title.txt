@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: 文選·賦·京都
+creator:
+- role: author
+  text: 〔梁〕蕭統編〔唐〕李善注
+lang: zh
+cover-image: "images/cover.png"
+css: "style.css"
+date: 2024-07-31
+belongs-to-collection: 文選
+...
