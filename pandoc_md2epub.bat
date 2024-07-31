@@ -4,3 +4,4 @@ pandoc -o ..\..\Documents\editted\wenxuan\wenxuan02.epub 02_title.txt _fanli.md 
 pandoc -o ..\..\Documents\editted\wenxuan\wenxuan03.epub 03_title.txt _fanli.md 03.md
 pandoc -o ..\..\Documents\editted\wenxuan\wenxuan04.epub 04_title.txt _fanli.md 04_1.md 04_2.md 04_3.md --epub-chapter-level=2
 pandoc -o ..\..\Documents\editted\wenxuan\wenxuan05.epub 05_title.txt _fanli.md 05.md
+pandoc -o ..\..\Documents\editted\wenxuan\wenxuan06.epub 06_title.txt _fanli.md 06.md

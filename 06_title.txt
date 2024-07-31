@@ -8,7 +8,7 @@ creator:
 lang: zh
 cover-image: "images/cover.png"
 css: "style.css"
-date: 
+date: 2024-07-31
 belongs-to-collection: 文選
 group-position: 6
 ...
