@@ -3,5 +3,7 @@
     "markdown.styles": [
         "style.css"
     ],
-    "editor.fontFamily": "'Microsoft Yahei Mono', 'Pingfang SC', Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "'Microsoft Yahei Mono', 'Pingfang SC', Consolas, HanaMinB, 'Courier New', monospace",
+    "editor.fontSize": 20,
+    "files.autoSave": "onFocusChange"
 }
