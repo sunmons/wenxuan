@@ -52,7 +52,7 @@ blockquote {
 }
 
 a.footnote-ref {
-    vertical-align: super;
+    vertical-align: baseline;
     font-size: 0.8em;
     font-weight: normal;
     text-decoration: none;
