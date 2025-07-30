@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: 昭明文選卷第三
+creator:
+- role: author
+  text: 〔梁〕蕭統編〔唐〕李善注
+lang: zh
+css: "style.css"
+date: 
+...
