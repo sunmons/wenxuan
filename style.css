@@ -58,6 +58,10 @@ a.footnote-ref {
     text-decoration: none;
 }
 
+ul li {
+    display: inline;
+}
+
 ol li p {
     font-size: 0.9em;
     color: gray;
