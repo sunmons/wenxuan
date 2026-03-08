@@ -58,8 +58,13 @@ a.footnote-ref {
     text-decoration: none;
 }
 
+ul {
+    margin-left: -1em;
+}
+
 ul li {
     display: inline;
+    margin-inline-end: .25em;
 }
 
 ol li p {
