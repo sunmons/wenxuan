@@ -4,6 +4,6 @@
         "style.css"
     ],
     "editor.fontFamily": "'Microsoft Yahei Mono', 'Pingfang SC', Consolas, HanaMinB, 'Courier New', monospace",
-    "editor.fontSize": 20,
+    "editor.fontSize": 18,
     "files.autoSave": "onFocusChange"
 }
